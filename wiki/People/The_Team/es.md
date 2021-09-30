@@ -37,7 +37,7 @@ Las personas nombradas a continuación son el núcleo del **equipo de osu!**, y 
 | ![][flag_AU] [smoogipooo](https://osu.ppy.sh/users/1040328) | Desarrolador de osu!mania, amante de osu!mania,cazador de bugs |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Administrador de Project Loved, divulgador de artistas destacados, tutor de la comunidad |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Administrador general, asistente en torneos |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Administrador general, asistente de torneos, mantenimiento de la osu!wiki |
+| ![][flag_CL] [Joaquin Ferrada](https://osu.ppy.sh/users/24260289) | Administrador general, asistente de torneos, mantenimiento de la osu!wiki |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
 ## Grupos de usuarios
@@ -78,7 +78,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Desarrolador del pp y de osu! |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Equipo de desarrollo osu!, Desarrollador del modo osu!mania |
 | ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Administrador de la [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/osu!academy), Diseñador de medios/personajes |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/24260289) | Profesor de [osu!academy](/wiki/osu!academy), Diseñador de medios/personajes |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
